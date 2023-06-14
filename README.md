@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Parami Jayathilaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+- 🔭 I’m currently studying in **IJSE**
+
+- 🌱 I’m currently learning **Computer Science**
+
+- 📫 How to reach me **thinithiparami53@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
