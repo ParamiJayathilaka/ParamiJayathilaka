@@ -1,4 +1,4 @@
-![DSC_0773](https://github.com/user-attachments/assets/4946fc74-35d2-48d8-9881-689b0e01db62)
+
 
 <h1 align="center">Hi 👋, I'm Parami Jayathilaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
